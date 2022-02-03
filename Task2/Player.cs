@@ -14,6 +14,4 @@ namespace Task2
             }
         }
     }
-
-
 }
